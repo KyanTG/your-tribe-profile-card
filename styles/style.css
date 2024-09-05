@@ -28,13 +28,13 @@ article {
 
 img {
 
-margin-top: 7.5%;
+margin-top: 5.5%;
 margin-left: 15.5%;
 border-radius: 2cm;
 }
 
 h1 {
-
+    
     margin-left: 13%;
     margin-top: 2%;
     font-family: cursive;
@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-
+    
     margin-left: 21%;
     margin-top:  -1%;
     font-family: cursive ;
@@ -64,13 +64,56 @@ p1 {
 
 }
 
+
+
+h3 {
+    
+    float: right;
+    margin-right: 25%;
+    margin-top: -40%;
+    font-size: 20px ;
+    font-family: cursive;
+    color:rgb(218, 210, 160);
+}
+
+#one  {
+    max-width: 50%;
+    float: right;
+    margin-right: 5%;
+    margin-top: -35%;
+    font-size: 15px ;
+    font-family: cursive;
+    color:rgb(218, 210, 160);
     
 
-    
+}
 
+h4 {
 
+    float: right;
+    margin-top: -25%;
+    margin-right: 19%;
+    font-size: 20px ;
+    font-family: cursive;
+    color:rgb(218, 210, 160);
+}
+
+#two  {
+    max-width: 50%;
+    float: right;
+    margin-right: 5%;
+    margin-top: -20%;
+    font-size: 15px ;
+    font-family: cursive;
+    color:rgb(218, 210, 160)
 
 
 }
+    
+
+
+
+
+
 
 
