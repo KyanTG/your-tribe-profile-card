@@ -28,14 +28,14 @@ article {
 
 img {
 
-margin-top: 5.5%;
-margin-left: 15.5%;
+margin-top: 25.5%;
+margin-left: -125%;
 border-radius: 2cm;
 }
 
 h1 {
     
-    margin-left: 13%;
+    margin-left: -135%;
     margin-top: 2%;
     font-family: cursive;
     font-size: 25px; 
@@ -46,7 +46,7 @@ h1 {
 
 h2 {
     
-    margin-left: 21%;
+    margin-left: -100%;
     margin-top:  -1%;
     font-family: cursive ;
     font-size:20px;
@@ -54,10 +54,10 @@ h2 {
 
 }
 
-p1 {
+#three {
 
 
-    margin-left: 15%;
+    margin-left: -125%;
     margin-top: 0%;
     font-family: cursive;
     color:rgb(218, 210, 160);
