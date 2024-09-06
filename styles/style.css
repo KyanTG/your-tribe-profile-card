@@ -64,7 +64,15 @@ h2 {
 
 }
 
+#four {
+    
+    margin-left: -125%;
+    margin-top: 0%;
+    font-family: cursive;
+    color:rgb(218, 210, 160);
 
+
+}
 
 h3 {
     
@@ -92,7 +100,7 @@ h4 {
 
     float: right;
     margin-top: -25%;
-    margin-right: 19%;
+    margin-right: 20%;
     font-size: 20px ;
     font-family: cursive;
     color:rgb(218, 210, 160);
@@ -112,8 +120,8 @@ h4 {
     
 button {
 display: block;
-margin-top: -10.5%;
-margin-left: 68%;
+margin-top: -12.5%;
+margin-left: 65%;
 background-color: rgb(218, 210, 160);
 border-radius: 1cm;
 border: 3px rgb(4, 63, 1);
