@@ -15,6 +15,7 @@ body {
     border-radius: 4cm;
     
     
+    
 }
 
 article {
@@ -31,6 +32,7 @@ img {
 margin-top: 25.5%;
 margin-left: -125%;
 border-radius: 2cm;
+
 }
 
 h1 {
@@ -119,6 +121,7 @@ h4 {
 }
     
 button {
+    
 display: block;
 margin-top: -12.5%;
 margin-left: 65%;
