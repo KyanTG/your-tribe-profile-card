@@ -1,6 +1,6 @@
 html { 
     
-    height: 80vh;
+    height: 120vh;
     background-color:rgb(255, 255, 255)
 }
 
@@ -110,7 +110,18 @@ h4 {
 
 }
     
+button {
+display: block;
+margin-top: -10.5%;
+margin-left: 68%;
+background-color: rgb(218, 210, 160);
+border-radius: 1cm;
+border: 3px rgb(4, 63, 1);
+font-family: cursive;
+color: rgb(4, 63, 1);
 
+
+}
 
 
 
